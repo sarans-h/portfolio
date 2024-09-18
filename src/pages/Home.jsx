@@ -245,7 +245,7 @@ const Home = ({ homeRef, skillsRef, projectsRef, contactRef }) => {
 
         {/* Horizontally Scrollable Project Thumbnails */}
         <div
-          ref={scrollRef}
+          
           className="flex overflow-x-auto gap-8 py-4 px-8"
           style={{ width: '80vw', scrollbarWidth: 'none' , height:"23vh" }}
         >
