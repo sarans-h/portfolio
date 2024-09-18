@@ -177,7 +177,7 @@ export default function Header({ scrollToSection }) {
 
             <Button color="primary" variant="solid" className="w-full mt-2">
               <a
-                href="https://docs.google.com/document/d/1_b680x8N665t1MoElujJT0vnmMg0-tPkqV1govmvDZA/export?format=pdf"
+                href="https://docs.google.com/document/d/1hlgeNyYM50XSJe_Lau7AvGJgpHhDGAlF/export?format=pdf"
                 style={{ textDecoration: "none", color: "inherit" }}
               >
                 Download Resume
