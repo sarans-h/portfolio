@@ -97,7 +97,7 @@ export default function Header({ scrollToSection }) {
 
         <Button color="primary" variant="solid">
           <a
-            href="https://docs.google.com/document/d/1hlgeNyYM50XSJe_Lau7AvGJgpHhDGAlF/export?format=pdf"
+            href="https://drive.google.com/uc?export=download&id=1_I0qBciMTuz6jZt0GvbMzzj8H1FJbnhi"
             style={{ textDecoration: "none", color: "inherit" }}
           >
             Download Resume
@@ -177,7 +177,7 @@ export default function Header({ scrollToSection }) {
 
             <Button color="primary" variant="solid" className="w-full mt-2">
               <a
-                href="https://docs.google.com/document/d/1hlgeNyYM50XSJe_Lau7AvGJgpHhDGAlF/export?format=pdf"
+                href="https://drive.google.com/uc?export=download&id=1_I0qBciMTuz6jZt0GvbMzzj8H1FJbnhi"
                 style={{ textDecoration: "none", color: "inherit" }}
               >
                 Download 
